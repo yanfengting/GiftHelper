@@ -1,5 +1,10 @@
 后台接口  https://github.com/yanfengting/GiftHelper-api
 
+
+注：榜单的数据需要自己新建一个goods表，然后把src/data下的goods.json里面的数据插入到goods表里面，反正我是一个一个插入的
+
+
+
 # vue
 
 ## Project setup
