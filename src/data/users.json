@@ -1,0 +1,27 @@
+{
+  "addressList": [],
+  "userId": "1",
+  "username": "admin",
+  "password": "123456",
+  "orderList": [],
+  "cartList": [{
+      "cover_image_url": "http://img02.liwushuo.com/image/160930/2c7jk3s1r.jpg-w720",
+      "id": "1071194",
+      "name": "万家月台·腰安康护腰礼盒",
+      "price": "79.00",
+      "short_description": "送爸妈一份温暖",
+      "productNum": "9",
+      "checked": "1"
+    },
+    {
+      "cover_image_url": "http://img01.liwushuo.com/image/160930/q0e0lhlf1.jpg-w720",
+      "id": "1021260",
+      "name": "天然花叶花瓣手工信纸",
+      "price": "9.90",
+      "short_description": "清香之气 雅致之感",
+      "productNum": "2",
+      "checked": "1"
+    }
+  ],
+  "__v": 23
+}

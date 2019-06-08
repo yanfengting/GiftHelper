@@ -1,0 +1,37 @@
+{
+    "code": 200,
+    "data": {
+        "background_webp_url": null,
+        "secondary_banners": [
+            {
+                "ad_monitors": [],
+                "id": 90,
+                "image_url": "http://img02.liwushuo.com/image/170220/kkjzkffmy.jpg-w720",
+                "target_url": "liwushuo:///page?type=topic&topic_id=450",
+                "webp_url": "http://img02.liwushuo.com/image/170220/kkjzkffmy.jpg?imageView2/2/w/720/q/85/format/webp"
+            },
+            {
+                "ad_monitors": [],
+                "id": 83,
+                "image_url": "http://img03.liwushuo.com/image/170401/bzfc0t83z.jpg-w720",
+                "target_url": "liwushuo:///page?type=topic&topic_id=446",
+                "webp_url": "http://img03.liwushuo.com/image/170401/bzfc0t83z.jpg?imageView2/2/w/720/q/85/format/webp"
+            },
+            {
+                "ad_monitors": [],
+                "id": 89,
+                "image_url": "http://img02.liwushuo.com/image/170401/ab8s4h01u.jpg-w720",
+                "target_url": "liwushuo:///page?type=topic&topic_id=448",
+                "webp_url": "http://img02.liwushuo.com/image/170401/ab8s4h01u.jpg?imageView2/2/w/720/q/85/format/webp"
+            },
+            {
+                "ad_monitors": [],
+                "id": 81,
+                "image_url": "http://img02.liwushuo.com/image/170220/qffhybnte.jpg-w720",
+                "target_url": "liwushuo:///page?type=topic&topic_id=389",
+                "webp_url": "http://img02.liwushuo.com/image/170220/qffhybnte.jpg?imageView2/2/w/720/q/85/format/webp"
+            }
+        ]
+    },
+    "message": "OK"
+}

@@ -1,0 +1,60 @@
+{
+    "code": 200,
+    "data": {
+        "banners": [
+            {
+                "ad_monitors": [],
+                "channel": "all",
+                "id": 982,
+                "image_url": "http://img02.liwushuo.com/image/190322/kf3g4swet.jpg-w720",
+                "order": 721,
+                "status": 0,
+                "target": {
+                    "banner_image_url": "http://img03.liwushuo.com/image/190322/0jj1cmrza.jpg-w300",
+                    "banner_webp_url": "http://img03.liwushuo.com/image/190322/0jj1cmrza.jpg?imageView2/2/w/300/q/85/format/webp",
+                    "cover_image_url": "http://img01.liwushuo.com/image/190322/xhqkej75u.jpg-w720",
+                    "cover_webp_url": "http://img01.liwushuo.com/image/190322/xhqkej75u.jpg?imageView2/2/w/720/q/85/format/webp",
+                    "created_at": 1553239972,
+                    "id": 474,
+                    "posts_count": 5,
+                    "status": 1,
+                    "subtitle": "\u6700\u751c\u7684\u793c\u7269\u9001\u7ed9\u6700\u559c\u6b22\u7684\u4eba",
+                    "title": "\u604b\u7231\u793c\u7269\u793e",
+                    "updated_at": 1553240614
+                },
+                "target_id": 474,
+                "target_type": "url",
+                "target_url": "liwushuo:///page?page_action=navigation&login=false&type=topic&topic_id=474",
+                "type": "collection",
+                "webp_url": "http://img02.liwushuo.com/image/190322/kf3g4swet.jpg?imageView2/2/w/720/q/85/format/webp"
+            },
+            {
+                "ad_monitors": [],
+                "channel": "all",
+                "id": 939,
+                "image_url": "http://img03.liwushuo.com/image/170319/d1ma25f3g.jpg-w720",
+                "order": 711,
+                "status": 0,
+                "target": {
+                    "banner_image_url": "http://img02.liwushuo.com/image/170319/177557foy.jpg-w300",
+                    "banner_webp_url": "http://img02.liwushuo.com/image/170319/177557foy.jpg?imageView2/2/w/300/q/85/format/webp",
+                    "cover_image_url": "http://img01.liwushuo.com/image/170319/d97cvw73y.jpg-w720",
+                    "cover_webp_url": "http://img01.liwushuo.com/image/170319/d97cvw73y.jpg?imageView2/2/w/720/q/85/format/webp",
+                    "created_at": 1489926279,
+                    "id": 445,
+                    "posts_count": 5,
+                    "status": 1,
+                    "subtitle": "\u5c11\u5973\u5fc3\uff0c\u4e00\u5b9a\u85cf\u5728\u7c89\u7ea2\u8272\u7684\u793c\u7269\u91cc",
+                    "title": "\u8272\u5f69\u8f70\u8db4",
+                    "updated_at": 1551294152
+                },
+                "target_id": 445,
+                "target_type": "url",
+                "target_url": "liwushuo:///page?page_action=navigation&login=false&type=topic&topic_id=445",
+                "type": "collection",
+                "webp_url": "http://img03.liwushuo.com/image/170319/d1ma25f3g.jpg?imageView2/2/w/720/q/85/format/webp"
+            }
+        ]
+    },
+    "message": "OK"
+}

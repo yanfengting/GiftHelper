@@ -1,0 +1,373 @@
+{
+    "code": 200,
+    "data": {
+        "channel_groups": [
+            {
+                "channels": [
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/161108/a9lk7ujyu.png",
+                        "group_id": 5,
+                        "icon_url": "http://img01.liwushuo.com/image/160414/kwzqtscoa.png-pw144",
+                        "id": 111,
+                        "items_count": 1347,
+                        "name": "\u793c\u7269",
+                        "order": 10,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img03.liwushuo.com/image/161108/2ztto37zo.png",
+                        "group_id": 5,
+                        "icon_url": "http://img01.liwushuo.com/image/160401/58kdnthsn.png-pw144",
+                        "id": 112,
+                        "items_count": 682,
+                        "name": "\u5bb6\u5c45",
+                        "order": 9,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img03.liwushuo.com/image/161108/mk735a2vf.png",
+                        "group_id": 5,
+                        "icon_url": "http://img02.liwushuo.com/image/160414/6eutomjeo.png-pw144",
+                        "id": 110,
+                        "items_count": 929,
+                        "name": "\u7a7f\u642d",
+                        "order": 8,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img02.liwushuo.com/image/161108/mepx3mnc5.png",
+                        "group_id": 5,
+                        "icon_url": "http://img02.liwushuo.com/image/160414/abuv6vssc.png-pw144",
+                        "id": 2,
+                        "items_count": 760,
+                        "name": "\u7f8e\u7269",
+                        "order": 7,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/161108/fxjtol3fq.png",
+                        "group_id": 5,
+                        "icon_url": "http://img03.liwushuo.com/image/160401/5al9xhwg1.png-pw144",
+                        "id": 116,
+                        "items_count": 252,
+                        "name": "\u9970\u54c1",
+                        "order": 6,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img03.liwushuo.com/image/161108/3d2et987l.png",
+                        "group_id": 5,
+                        "icon_url": "http://img02.liwushuo.com/image/160401/5dgflkj6g.png-pw144",
+                        "id": 117,
+                        "items_count": 282,
+                        "name": "\u978b\u5305",
+                        "order": 5,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/161108/e4kh08dt7.png",
+                        "group_id": 5,
+                        "icon_url": "http://img03.liwushuo.com/image/160401/58vv7n29y.png-pw144",
+                        "id": 118,
+                        "items_count": 587,
+                        "name": "\u7f8e\u98df",
+                        "order": 5,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/161108/tzmec6sqh.png",
+                        "group_id": 5,
+                        "icon_url": "http://img02.liwushuo.com/image/160401/fb7e1012t.png-pw144",
+                        "id": 113,
+                        "items_count": 672,
+                        "name": "\u7f8e\u62a4",
+                        "order": 4,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img03.liwushuo.com/image/161108/pqd3pqaun.png",
+                        "group_id": 5,
+                        "icon_url": "http://img02.liwushuo.com/image/160401/59hgqd1x8.png-pw144",
+                        "id": 121,
+                        "items_count": 294,
+                        "name": "\u6570\u7801",
+                        "order": 4,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img03.liwushuo.com/image/161108/qm793ot3w.png",
+                        "group_id": 5,
+                        "icon_url": "http://img03.liwushuo.com/image/160401/u4r2a9q72.png-pw144",
+                        "id": 3,
+                        "items_count": 111,
+                        "name": "\u624b\u5de5",
+                        "order": 3,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/161108/cdi8xf9nb.png",
+                        "group_id": 5,
+                        "icon_url": "http://img02.liwushuo.com/image/160401/i69bjp6bm.png-pw144",
+                        "id": 119,
+                        "items_count": 61,
+                        "name": "\u6bcd\u5a74",
+                        "order": 0,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img02.liwushuo.com/image/161108/m4v85h6rg.png",
+                        "group_id": 5,
+                        "icon_url": "http://img01.liwushuo.com/image/160401/t9t9hzntc.png-pw144",
+                        "id": 122,
+                        "items_count": 86,
+                        "name": "\u7231\u52a8\u6f2b",
+                        "order": 0,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img03.liwushuo.com/image/161108/x8b344f8h.png",
+                        "group_id": 5,
+                        "icon_url": "http://img02.liwushuo.com/image/160401/3ziqypz1f.png-pw144",
+                        "id": 123,
+                        "items_count": 56,
+                        "name": "\u7231\u8fd0\u52a8",
+                        "order": 0,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/161108/ft4tihja1.png",
+                        "group_id": 5,
+                        "icon_url": "http://img03.liwushuo.com/image/160401/6pdxbaqz2.png-pw144",
+                        "id": 124,
+                        "items_count": 76,
+                        "name": "\u7231\u8bfb\u4e66",
+                        "order": 0,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img03.liwushuo.com/image/161108/vz95ebvwy.png",
+                        "group_id": 5,
+                        "icon_url": "http://img02.liwushuo.com/image/160401/voku467wc.png-pw144",
+                        "id": 129,
+                        "items_count": 185,
+                        "name": "\u6d77\u6dd8",
+                        "order": 0,
+                        "status": 0,
+                        "url": ""
+                    }
+                ],
+                "id": 5,
+                "name": "\u54c1\u7c7b",
+                "order": 6,
+                "status": 0
+            },
+            {
+                "channels": [
+                    {
+                        "cover_image_url": "http://img02.liwushuo.com/image/161109/xmxxxobjl.png",
+                        "group_id": 1,
+                        "icon_url": "http://img03.liwushuo.com/image/160401/y6s6hso8w.png-pw144",
+                        "id": 125,
+                        "items_count": 249,
+                        "name": "\u521b\u610f\u751f\u6d3b",
+                        "order": 5,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img02.liwushuo.com/image/161109/4r3eghbq1.png",
+                        "group_id": 1,
+                        "icon_url": "http://img02.liwushuo.com/image/160401/vx9i89n0s.png-pw144",
+                        "id": 11,
+                        "items_count": 292,
+                        "name": "\u840c\u840c\u54d2",
+                        "order": 4,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/161108/s8nnelne2.png",
+                        "group_id": 1,
+                        "icon_url": "http://img03.liwushuo.com/image/160401/i3aupd3j5.png-pw144",
+                        "id": 14,
+                        "items_count": 503,
+                        "name": "\u6587\u827a\u98ce",
+                        "order": 3,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img03.liwushuo.com/image/161109/bx1zsu3of.png",
+                        "group_id": 1,
+                        "icon_url": "http://img01.liwushuo.com/image/160401/9hmc5ux1f.png-pw144",
+                        "id": 28,
+                        "items_count": 169,
+                        "name": "\u79d1\u6280\u8303",
+                        "order": 3,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img03.liwushuo.com/image/161108/0cjf2nclh.png",
+                        "group_id": 1,
+                        "icon_url": "http://img01.liwushuo.com/image/160401/h54c765kw.png-pw144",
+                        "id": 126,
+                        "items_count": 75,
+                        "name": "\u5947\u8469\u641e\u602a",
+                        "order": 0,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img02.liwushuo.com/image/161108/5d5a0ethg.png",
+                        "group_id": 1,
+                        "icon_url": "http://img02.liwushuo.com/image/160401/laseg7k6q.png-pw144",
+                        "id": 127,
+                        "items_count": 164,
+                        "name": "\u8bbe\u8ba1\u611f",
+                        "order": 0,
+                        "status": 0,
+                        "url": ""
+                    }
+                ],
+                "id": 1,
+                "name": "\u98ce\u683c",
+                "order": 5,
+                "status": 0
+            },
+            {
+                "channels": [
+                    {
+                        "cover_image_url": "http://img02.liwushuo.com/image/170301/0fudnac35.png",
+                        "group_id": 2,
+                        "icon_url": "http://img02.liwushuo.com/image/160414/j868ssqkl.png-pw144",
+                        "id": 10,
+                        "items_count": 843,
+                        "name": "\u9001\u5973\u53cb",
+                        "order": 8,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/170301/upsfpakan.png",
+                        "group_id": 2,
+                        "icon_url": "http://img03.liwushuo.com/image/160401/56j52lxyq.png-pw144",
+                        "id": 9,
+                        "items_count": 489,
+                        "name": "\u9001\u7537\u53cb",
+                        "order": 7,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/161109/04r3cq6rh.png",
+                        "group_id": 2,
+                        "icon_url": "http://img02.liwushuo.com/image/160414/esbe2og0n.png-pw144",
+                        "id": 17,
+                        "items_count": 230,
+                        "name": "\u9001\u540c\u4e8b",
+                        "order": 6,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/170301/15nj4uqls.png",
+                        "group_id": 2,
+                        "icon_url": "http://img03.liwushuo.com/image/160401/tsskwt8rq.png-pw144",
+                        "id": 6,
+                        "items_count": 290,
+                        "name": "\u9001\u957f\u8f88",
+                        "order": 5,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/161109/mvv9wb456.png",
+                        "group_id": 2,
+                        "icon_url": "http://img03.liwushuo.com/image/160401/vq7h2y5ru.png-pw144",
+                        "id": 26,
+                        "items_count": 659,
+                        "name": "\u9001\u57fa\u53cb",
+                        "order": 5,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img03.liwushuo.com/image/161109/1c37m2fjo.png",
+                        "group_id": 2,
+                        "icon_url": "http://img02.liwushuo.com/image/160401/vmdxu2nrw.png-pw144",
+                        "id": 5,
+                        "items_count": 1420,
+                        "name": "\u9001\u95fa\u871c",
+                        "order": 4,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img02.liwushuo.com/image/161109/zwr54mux6.png",
+                        "group_id": 2,
+                        "icon_url": "http://img03.liwushuo.com/image/160401/9fml1mzye.png-pw144",
+                        "id": 24,
+                        "items_count": 117,
+                        "name": "\u9001\u5b9d\u8d1d",
+                        "order": 2,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img02.liwushuo.com/image/161109/g90bhlnf0.png",
+                        "group_id": 2,
+                        "icon_url": "http://img02.liwushuo.com/image/160414/49ludf8iy.png-pw144",
+                        "id": 132,
+                        "items_count": 46,
+                        "name": "\u65b0\u5a5a\u592b\u5987",
+                        "order": 1,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img01.liwushuo.com/image/161109/ltgt469om.png",
+                        "group_id": 2,
+                        "icon_url": "http://img01.liwushuo.com/image/160414/gglbvbdjd.png-pw144",
+                        "id": 133,
+                        "items_count": 55,
+                        "name": "\u65b0\u624b\u5988\u5988",
+                        "order": 0,
+                        "status": 0,
+                        "url": ""
+                    },
+                    {
+                        "cover_image_url": "http://img02.liwushuo.com/image/161109/woycu4wwz.png",
+                        "group_id": 2,
+                        "icon_url": "http://img01.liwushuo.com/image/160426/7gmz13c47.png-pw144",
+                        "id": 134,
+                        "items_count": 343,
+                        "name": "\u9001\u81ea\u5df1",
+                        "order": 0,
+                        "status": 0,
+                        "url": ""
+                    }
+                ],
+                "id": 2,
+                "name": "\u5bf9\u8c61",
+                "order": 4,
+                "status": 0
+            }
+        ]
+    },
+    "message": "OK"
+}

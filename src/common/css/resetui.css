@@ -1,0 +1,29 @@
+#footbar .van-tabs__line {
+  background-color: rgb(255, 66, 88);
+}
+
+.van-nav-bar__text {
+  color: rgb(255, 66, 88);
+}
+
+.van-tab span:hover {
+  color: rgb(255, 66, 88);
+}
+
+.van-tabbar-item,
+.van-tabbar-item--active {
+  cursor: pointer;
+  color: rgb(255, 66, 88);
+}
+
+.van-tabbar-item:hover {
+  color: rgb(255, 66, 88);
+}
+
+.van-icon {
+  display: block;
+}
+
+span:hover {
+  color: black
+}
