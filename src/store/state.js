@@ -1,7 +1,10 @@
 const state = {
   good: {},
+  userInfo: {},
   orderGood: {},
   addressList: [],
+  editAddressInfo: {},
+  isSelectAddress: false,
   editAddress: {
     // Username: '',
     Addressid: '',
@@ -14,5 +17,5 @@ const state = {
   },
   addressId: '',
   address: []
-}
-export default state
+};
+export default state;

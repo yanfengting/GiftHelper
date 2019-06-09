@@ -1,33 +1,32 @@
-import Vue from 'vue'
-import Vuex from 'vuex'
+import Vue from 'vue';
+import Vuex from 'vuex';
 
-Vue.use(Vuex)
+Vue.use(Vuex);
 
 const state = {
     selectGoods: []
-}
+};
 
 const mutations = {
     add(state, data) {
-        state.selectGoods.push(data)
+        state.selectGoods.push(data);
     },
     remove(state, data) {
-        state.selectGoods.splice(data, 1)
-        }
-}
+        state.selectGoods.splice(data, 1);
+    }
+};
 
 const actions = {
     addGoods({ commit }, data) {
-        commit('add', data)
+        commit('add', data);
     },
     removeGoods({ commit }, data) {
-        commit('remove', data)
+        commit('remove', data);
     }
-
-}
+};
 
 export default new Vuex.Store({
     state,
     mutations,
     actions
-})
+});

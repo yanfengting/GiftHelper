@@ -2,16 +2,12 @@
   <div class="home">
     <!-- <van-nav-bar title="首页"
                  left-text="礼物帮手" /> -->
-    <div id="head"
-         class="head">
-      <span class="title-left">
-        礼物帮手</span>
+    <div id="head" class="head">
+      <span class="title-left"> 礼物帮手</span>
       <span class="title-mid">首页</span>
       <span class="title-right"></span>
     </div>
-    <van-tabs v-model="active"
-              swipeable
-              title-active-color="#f44">
+    <van-tabs v-model="active" swipeable title-active-color="#f44">
       <van-tab title="精选">
         <jingxuan />
       </van-tab>
@@ -32,43 +28,42 @@
       </van-tab>
     </van-tabs>
     <div id="footbar">
-      <van-tabbar v-model="tabactive"
-                  active-color="#fa294a">
-        <van-tabbar-item icon="shop-collect"
-                        to="/">首页</van-tabbar-item>
-        <van-tabbar-item icon="fire"
-                        to="/list">榜单</van-tabbar-item>
-        <van-tabbar-item icon="more"
-                        to="/classify">攻略</van-tabbar-item>
-        <van-tabbar-item icon="manager"
-                        to="/person">我的</van-tabbar-item>
+      <van-tabbar v-model="tabactive" active-color="#fa294a">
+        <van-tabbar-item icon="shop-collect" to="/">首页</van-tabbar-item>
+        <van-tabbar-item icon="fire" to="/list">榜单</van-tabbar-item>
+        <van-tabbar-item icon="more" to="/classify">攻略</van-tabbar-item>
+        <van-tabbar-item icon="manager" to="/person">我的</van-tabbar-item>
       </van-tabbar>
     </div>
   </div>
 </template>
 
 <script>
-import Jingxuan from '../components/home/jingxuan.vue'
-import Sendcolleagues from '../components/home/Sendcolleagues.vue'
-import Sendgays from '../components/home/Sendgays.vue'
-import Sendnvyou from '../components/home/Sendnvyou.vue'
-import Sendbama from '../components/home/Sendbama.vue'
-import Sendbaby from '../components/home/Sendbaby.vue'
-import { Tabbar, TabbarItem, NavBar, Checkbox, CheckboxGroup, Card, SubmitBar, Tab, Tabs } from 'vant'
+import Jingxuan from '../components/home/jingxuan.vue';
+import Sendcolleagues from '../components/home/Sendcolleagues.vue';
+import Sendgays from '../components/home/Sendgays.vue';
+import Sendnvyou from '../components/home/Sendnvyou.vue';
+import Sendbama from '../components/home/Sendbama.vue';
+import Sendbaby from '../components/home/Sendbaby.vue';
+import { Tabbar, TabbarItem, NavBar, Checkbox, CheckboxGroup, Card, SubmitBar, Tab, Tabs } from 'vant';
+import { mapActions } from 'vuex';
 
 export default {
-  data () {
+  data() {
     return {
       tabactive: 0,
       active: 0,
       checkedGoods: ['1', '2', '3']
-    }
+    };
+  },
+  created() {
+    this.setUserInfo();
   },
 
   methods: {
+    ...mapActions(['setUserInfo'])
   },
-  computed: {
-  },
+  computed: {},
   components: {
     Jingxuan,
     Sendnvyou,
@@ -86,7 +81,7 @@ export default {
     [Tabbar.name]: Tabbar,
     [TabbarItem.name]: TabbarItem
   }
-}
+};
 </script>
 <style lang="less">
 .van-tabbar {
